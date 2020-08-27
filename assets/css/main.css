@@ -2254,7 +2254,7 @@ input[type="radio"] + label:before {
 }
 
 .image img {
-	border-radius: 5px;
+	border-radius: 10px;
 	border: 1px solid #eaeaea;
 	display: block;
 	box-shadow: 5px 5px 5px #eaeaea;
