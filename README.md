@@ -1,3 +1,5 @@
+![CodeQualityScore](https://www.code-inspector.com/project/13031/score/svg)
+
 # sgd122.github.io
 
 - Copyright &copy; 2020
