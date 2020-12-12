@@ -1,6 +1,6 @@
 ![CodeQualityScore](https://www.code-inspector.com/project/13031/score/svg)
 
-# sgd122.github.io
+# [sgd122.github.io](https://sgd122.github.io/)
 
 - Copyright &copy; 2020
 - Author: Gidong Seong
